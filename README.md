@@ -1,6 +1,6 @@
 # Nor-Cal-Spring-Hackathon-Project
 
-This is my project for th 2023 Nor Cal Hackathon
+This is my project for the 2023 Nor Cal Hackathon
 
 I worked on this project alone which was fun aand not fun but in all it was a succes.
 
