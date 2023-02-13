@@ -10,3 +10,13 @@ The best option is you can also derypt everything.
 
 You can run the main.exe file to run it directly or run it in your ide by opening the main.py.
 
+You need these modules to work
+
+--pip install cryptography--
+
+--pip install pyperclip--
+
+--pip install ttkbootstrap--
+
+Then you are done, and also you need python installed lol
+
